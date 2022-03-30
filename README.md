@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xiandansss
-- 👀 I’m interested in management consulting and data analysis
+- 👀 I’m interested in management consulting and AML data science
 - 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on learning coding as a starter
 - 📫 How to reach me via shirleysze06@gmail.com
