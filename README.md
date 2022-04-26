@@ -2,7 +2,7 @@
 - 👀 I’m interested in management consulting and AML data science
 - 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on learning coding as a starter
-- 📫 How to reach me via shirleysze06@gmail.com
+- 📫 Reach out via shirleysze06@gmail.com
 
 <!---
 xiandansss/xiandansss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
